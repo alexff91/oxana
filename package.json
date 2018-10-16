@@ -2,6 +2,6 @@
   "name": "oxana",
   "version": "0.0.1",
   "dependencies": {
-    "slimbot"
+    "slimbot" : "0.8.3"
   }
 }
